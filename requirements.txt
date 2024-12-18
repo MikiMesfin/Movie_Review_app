@@ -1,0 +1,15 @@
+Django>=3.2
+djangorestframework>=3.12
+djangorestframework-simplejwt
+django-filter
+django-cors-headers
+gunicorn
+whitenoise
+pillow
+psycopg2-binary 
+tmdbv3api 
+python-dotenv 
+drf-yasg==1.21.7
+pytest==7.4.3
+pytest-django==4.7.0
+coverage==7.3.2 
